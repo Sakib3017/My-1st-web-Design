@@ -1,0 +1,26 @@
+header {
+	font-size: 100px;
+	font-family: Arial;
+	background-color: #006699;
+	color: #ffffff;
+	padding: 100px;
+	text-align: center;
+
+
+}
+
+
+.button {
+	background-color: #000000;
+	padding: 15px;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial;
+
+
+}
+.button:hover {
+	background-color: #ffffff;
+	color: red;
+}
